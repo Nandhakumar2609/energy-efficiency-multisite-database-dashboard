@@ -1,4 +1,4 @@
-# Solvay Energy Efficiency Project Database
+# Energy Efficiency Project Database
 
 **End-to-end data analysis project | Production Excellence Team**
 
